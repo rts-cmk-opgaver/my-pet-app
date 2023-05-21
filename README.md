@@ -2,7 +2,7 @@
 
 # My Pet 
 ### **Opgaven indeholder følgende filer:**
-- en figma fil (i assets mappen)
+- en figma fil med design.
 
 ### **Opgavebeskrivelse**
 - Brug Vite til at installere en react applikation
