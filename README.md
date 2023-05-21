@@ -6,7 +6,7 @@
 
 ### **Opgavebeskrivelse**
 - Brug Vite til at installere en react applikation
-- Du skal bruge det https://www.petfinder.com/developers/ api'et til at hente data fra
+- Du skal bruge https://www.petfinder.com/developers/ api'et til at hente data fra
 - Du skal bygge hele løsningen i react
 - Husk at lave en branch til dit arbejde
 
